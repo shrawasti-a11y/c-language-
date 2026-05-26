@@ -1,22 +1,3 @@
-/*
-=============================================================================
-   PROJECT: Inventory Management System using Data Structures in C
-   AUTHOR : B.Tech 1st Year Student Project
-   DATE   : 2024
-   COURSE : Data Structures and Programming in C
-
-   DESCRIPTION:
-   This project implements a full-featured Inventory Management System
-   that demonstrates the use of:
-   - Singly Linked List (for product storage)
-   - Stack (for Undo Delete feature)
-   - Queue (for Customer Billing Queue)
-   - File Handling (Save & Load inventory)
-   - Arrays and Strings (product info)
-   - Dynamic Memory Allocation (malloc)
-   - Structures, Functions, Switch-Case, Menus
-=============================================================================
-*/
 
 /* =========================================================
    SECTION 1: HEADER FILES
